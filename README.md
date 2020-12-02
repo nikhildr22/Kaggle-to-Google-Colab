@@ -1,4 +1,6 @@
 # Kaggle-to-Google-Colab
+
+Click here to Open Colab Notebook --> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikhildr22/Kaggle-to-Google-Colab/blob/main/Kaggle_To_Colab.ipynb)
 ## goto your kaggle account settings
 ![kaggle_account](kaggle_account.png)
 ## Scroll down to generate and get kaggle API 
